@@ -3,7 +3,7 @@ using System;
 
 var o = new Octopus("Jack");
 
-Console.WriteLine(o.Name);  // Jack  
+Console.WriteLine(o.Name);  // Jack
 // o.Legs = 20;                // Erro de compilação
 
 class Octopus
@@ -16,3 +16,7 @@ class Octopus
     Name = name;
   }
 }
+
+//comntario novo
+//C1
+//C3
